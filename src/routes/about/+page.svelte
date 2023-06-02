@@ -9,7 +9,7 @@
 	<meta name="description" content="About this app" />
 </svelte:head>
 
-<div class="text-column">
+<div >
 	<Accordion>
 		<AccordionItem>
 			<span slot="header">My Header 1</span>
